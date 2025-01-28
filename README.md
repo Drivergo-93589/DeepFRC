@@ -1,4 +1,4 @@
-# DeepFPC update on 2025/1/28
+# DeepFRC update on 2025/1/28
 The Paper Link: 
 
 The code running order:
