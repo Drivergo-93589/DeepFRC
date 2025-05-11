@@ -1,8 +1,14 @@
 # DeepFRC update on 2025/5/11
 
+## Introduction
+
+DeepFRC is an end-to-end deep learning framework for joint functional registration and classification.
+
 ![DeepFRC Model](images/The_Model.png)
 
 The Paper Link: 
+
+## Getting Started
 
 The code running order:
 
