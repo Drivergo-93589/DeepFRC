@@ -1,4 +1,7 @@
-# DeepFRC update on 2025/1/28
+# DeepFRC update on 2025/5/11
+
+![DeepFRC Model](images/The_Model.png)
+
 The Paper Link: 
 
 The code running order:
