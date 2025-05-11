@@ -17,3 +17,11 @@ The code running order:
 2# model/data/data_preprocess.ipynb
 
 3# model/DeepFRC.ipynb
+
+## Dataset Download
+
+Wave (motion): https://www.timeseriesclassification.com/description.php?Dataset=UWaveGestureLibraryX
+
+Yoga (image-derived): https://www.timeseriesclassification.com/description.php?Dataset=Yoga
+
+Symbol (handwriting): https://www.timeseriesclassification.com/description.php?Dataset=Symbols
