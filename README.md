@@ -1,4 +1,4 @@
-# DeepFRC update on 2025/5/12
+# DeepFRC update on 2025/9/24
 
 ## Introduction
 
@@ -31,6 +31,7 @@ Wave (motion): https://www.timeseriesclassification.com/description.php?Dataset=
 Yoga (image-derived): https://www.timeseriesclassification.com/description.php?Dataset=Yoga
 
 Symbol (handwriting): https://www.timeseriesclassification.com/description.php?Dataset=Symbols
+
 
 
 
