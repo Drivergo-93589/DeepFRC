@@ -22,11 +22,14 @@ The code running order:
 
 ## Dataset Download
 
-Wave (motion): https://www.timeseriesclassification.com/description.php?Dataset=UWaveGestureLibraryX
+Wave: https://www.timeseriesclassification.com/description.php?Dataset=UWaveGestureLibraryX
 
-Yoga (image-derived): https://www.timeseriesclassification.com/description.php?Dataset=Yoga
+Yoga: https://www.timeseriesclassification.com/description.php?Dataset=Yoga
 
-Symbol (handwriting): https://www.timeseriesclassification.com/description.php?Dataset=Symbols
+Symbol: https://www.timeseriesclassification.com/description.php?Dataset=Symbols
+
+MotionSense: https://www.kaggle.com/datasets/malekzadeh/motionsense-dataset/data
+
 
 
 
